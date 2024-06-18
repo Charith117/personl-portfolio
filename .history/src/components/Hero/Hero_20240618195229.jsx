@@ -18,7 +18,7 @@ const Hero = () => {
     </div>
 
     </div>
-    <img className={styles.heroImg} src={getImageUrl("hero/hero1.png")} alt="Her" />
+    <img className={styles.heroImg} src={getImageUrl("hero/heroImage.png")} alt="Her" />
     <div className={styles.topBlur}></div>
     <div className={styles.bottomBlur}></div>
   </section>
